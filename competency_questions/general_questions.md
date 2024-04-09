@@ -26,7 +26,11 @@ different roles
 - Please list all experiments that have been conducted between 2024-01-01 and 2024-03-31, performed by the user with the username "user1", measured with the device "device1" and with a temperature higher than 100 degrees, with the substances "substance1" and "substance2" involved.
 
 
-### general questions , aggregartion, filtering, sorting, grouping, joining, subqueries, etc.
+### general questions , aggregation, filtering, sorting, grouping, joining, subqueries, etc.
+
+- What is the average conversion of all experiments that have been conducted between 2024-01-01 and 2024-03-31, and that have been conducted by the user with the username "user1" regarding the reaction "reaction1" ?
 
 ### combining own data with group / national / international data (federated queries)
+
+- Please list all GC measurements related a catalytic reaction Rc, that involved a catalyst C and compare the results with similar measurements from the international database CD. 
 
