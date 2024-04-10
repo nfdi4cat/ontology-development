@@ -8,23 +8,40 @@ Many of the questions allow for non-trivial permutations, for which reasons it m
 
 - which reactions produce substance X?
 
-- which components have substance X as an intermediate product?
+- which components X have substance Y as an intermediate product?
 
-- which reaction can be inhibited by small concentrations of substance X?
+- which reaction X can be inhibited by small concentrations of substance Y?
 
-- which ligand are sufficently robust for the reactionconditions of reaction X?
+- which ligand X are sufficently robust for the reactionconditions Y of reaction Z?
+
+- Which side reaction Y can ouccour do to the Carriermaterial/Ligand/Solvent X in a Mixture consisting of Z ?
+
+- which intermediate reactions X can occur if reaction Y is catalysed by catalyst Z?
+
+- Which intermediate substance X can lead to the side reaction Y in the reaction Mixture Z  
 
 
 # Measurement related question
 
-- which measurement technique was used?
+- which measurement technique X was used in measurement Y?
 
-- which detector was used?
+- which detector X was used in measurement Y?
 
-- which calibartion technique was used?
+- which calibartion technique X was used in measurement Y ?
 
 - how large is the measurement range of device X ?
 
+- Which sample preapration technique X was used for the measurement Y ?
+
+- Which measurement settings X were used in measurement Y ?
+
+- Which measurement techniques X were used to evaluate a catalyst Y containing Z ?
+
+- Which measurement device X can be used to determine the Concentration of substance Y in the mixture Z ?
+
+- Which bulk density X does a fixed bed of catalytic material Y have in reactor Z ?
+
+- Which particle size distribution X was observed for catalysts containing Y ?
 
 
 # Catalyst related question
@@ -33,25 +50,37 @@ Many of the questions allow for non-trivial permutations, for which reasons it m
 
 - give me all catalysts which contain component X ?
 
-- which reaction can be catalysed by substance X ?
+- which reaction X can be catalysed by substance Y ?
 
-- Which products can a combination of Educt X and Y produce ?
+- Which products X can a combination of Educt Y and Z produce ?
 
-- Which educts can produce product X while not having components Y, Z as products?
+- Which educts X can produce product Y while not having components Y, Z as products?
 
-- Which reaction experiments  are catalysed by the reaction vessel rather than by the catalytic sample?
+- Which reaction experiments X are catalysed by the reaction vessel Y rather than by the catalytic sample Z ?
 
-- which reactions are catalysed reactions ?
+- which reactions X are catalysed reactions Y ?
 
-- which side reactions can i expect in a mixture consisting of substances X?
+- which side reactions X can i expect in a mixture Y consisting of substances X?
 
-- Which reactants cause which side reactions ?
+- Which reactants X cause which side reactions Y ?
 
-- Which reaction ouccoured if i get the products X while having an initial mixture containing Y?
+- Which reaction X ouccoured if i get the products Y while having an initial mixture containing Z?
 
-- give me all reaction experiments where the catalyst is allready contained in the initial mixture.
+- give me all reaction experiments X where the catalyst Y is allready contained in the initial mixture Z.
 
-- give me all reactions where a catalyst is occuring due to a parallel reaction. 
+- give me all reactions X where a catalyst Y is occuring due to a parallel reaction Z . 
+
+- Which Substances X have a positiv electron shift for the catalyst substance Y ?
+
+- Which ligand X can be used with catalytic substance Y ?
+
+- Which side reactions X occur due to the Carrier Material Y in reactionexperiment Z ?
+
+- Which reactionconditions X is needed to achive reaction Y ?
+
+- At what reactionconditions X does a mixture Y produce more product Z than product U ?
+
+
 
 
 ## Catalytic efficeny related question
@@ -60,16 +89,24 @@ Many of the questions allow for non-trivial permutations, for which reasons it m
 
 - give me all catalysts which catalyse reaction Y?
 
+- Which wavelength X is the primary absorbed wavelength for catalyst Y ?
+
+- Which substances X can be used as Activation component for the catalytic substance Y ? (so basically this question would ask something like: which component X can be used to achive a minimal electron shift of X eV on the component Y ?)
+
+- 
+
 
 # Setup related questions
 
-- which reaction vessel was used?
+- which reaction vessel X was used in experimant Y ?
 
-- which reactionconditions can be tested in reaction vessel X ?
+- which reactionconditions X can be tested in reaction vessel Y ?
 
+- which reactor model X (plug flow reactor, CSTR,...) was assumed in experiment Y to calculate Z ?
 
 
 # Computationally related questions
 
 - which simulation technique was used in experiment X ?
 
+- Which Reynolds number X do i need in a simulation of reactor Y in order to achive yields of more than Z with the reaction conditions U ?
