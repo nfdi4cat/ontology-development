@@ -1,6 +1,6 @@
 # General remarks
 
-To simplify writing the questions variables are used inside the questions. Variable allways start with X as the first Variable and then continue with Y,Z,U,V,W as the respective placeholder.
+To simplify writing the questions variables are used inside the questions. Variable always start with X as the first Variable and then continue with Y,Z,U,V,W as the respective placeholder.
 Many of the questions allow for non-trivial permutations, for which reasons it might be best to also list these permutation blocks.
 
 
@@ -12,9 +12,9 @@ Many of the questions allow for non-trivial permutations, for which reasons it m
 
 - which reaction X can be inhibited by small concentrations of substance Y?
 
-- which ligand X are sufficently robust for the reactionconditions Y of reaction Z?
+- which ligand X are sufficiently robust for the reaction conditions Y of reaction Z?
 
-- Which side reaction Y can ouccour do to the Carriermaterial/Ligand/Solvent X in a Mixture consisting of Z ?
+- Which side reaction Y can occur do to the Carriermaterial/Ligand/Solvent X in a Mixture consisting of Z ?
 
 - which intermediate reactions X can occur if reaction Y is catalysed by catalyst Z?
 
@@ -27,11 +27,11 @@ Many of the questions allow for non-trivial permutations, for which reasons it m
 
 - which detector X was used in measurement Y?
 
-- which calibartion technique X was used in measurement Y ?
+- which calibration technique X was used in measurement Y ?
 
 - how large is the measurement range of device X ?
 
-- Which sample preapration technique X was used for the measurement Y ?
+- Which sample preparation technique X was used for the measurement Y ?
 
 - Which measurement settings X were used in measurement Y ?
 
@@ -64,26 +64,26 @@ Many of the questions allow for non-trivial permutations, for which reasons it m
 
 - Which reactants X cause which side reactions Y ?
 
-- Which reaction X ouccoured if i get the products Y while having an initial mixture containing Z?
+- Which reaction X occurred if i get the products Y while having an initial mixture containing Z?
 
-- give me all reaction experiments X where the catalyst Y is allready contained in the initial mixture Z.
+- give me all reaction experiments X where the catalyst Y is already contained in the initial mixture Z.
 
-- give me all reactions X where a catalyst Y is occuring due to a parallel reaction Z . 
+- give me all reactions X where a catalyst Y is occurring due to a parallel reaction Z . 
 
-- Which Substances X have a positiv electron shift for the catalyst substance Y ?
+- Which Substances X have a positive electron shift for the catalyst substance Y ?
 
 - Which ligand X can be used with catalytic substance Y ?
 
-- Which side reactions X occur due to the Carrier Material Y in reactionexperiment Z ?
+- Which side reactions X occur due to the carrier material Y in reaction experiment Z ?
 
-- Which reactionconditions X is needed to achive reaction Y ?
+- Which reaction conditions X is needed to achieve reaction Y ?
 
-- At what reactionconditions X does a mixture Y produce more product Z than product U ?
-
-
+- At what reaction conditions X does a mixture Y produce more product Z than product U ?
 
 
-## Catalytic efficeny related question
+
+
+## Catalytic efficiency related question
 
 - give me all catalysts based on component X which have a surface absorption coefficient of Y
 
@@ -91,7 +91,7 @@ Many of the questions allow for non-trivial permutations, for which reasons it m
 
 - Which wavelength X is the primary absorbed wavelength for catalyst Y ?
 
-- Which substances X can be used as Activation component for the catalytic substance Y ? (so basically this question would ask something like: which component X can be used to achive a minimal electron shift of X eV on the component Y ?)
+- Which substances X can be used as Activation component for the catalytic substance Y ? (so basically this question would ask something like: which component X can be used to achieve a minimal electron shift of X eV on the component Y ?)
 
 - 
 
@@ -109,4 +109,4 @@ Many of the questions allow for non-trivial permutations, for which reasons it m
 
 - which simulation technique was used in experiment X ?
 
-- Which Reynolds number X do i need in a simulation of reactor Y in order to achive yields of more than Z with the reaction conditions U ?
+- Which Reynolds number X do i need in a simulation of reactor Y in order to achieve yields of more than Z with the reaction conditions U ?
